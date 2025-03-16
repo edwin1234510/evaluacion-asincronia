@@ -1,0 +1,1 @@
+export {getComentPost} from "./solicitar_comentario_post.js";

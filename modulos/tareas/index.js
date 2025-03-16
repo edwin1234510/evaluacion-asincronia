@@ -1,0 +1,1 @@
+export {solicitar_tarea_p} from "./listar_tareas_pendiente.js"
